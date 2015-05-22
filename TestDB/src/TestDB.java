@@ -6,7 +6,7 @@ public class TestDB {
 		Consulta consulta = new Consulta();
 		consulta.setCon(con.getCon());
 		
-		consulta.Consulta("SELECT * FROM PLSQL.EQUIPO", 1);
+		consulta.Consulta("SELECT * FROM PLSQL.EQUIPO", 2);
 		
 		
 		
