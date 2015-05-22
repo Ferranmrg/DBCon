@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Default Connection</comment>
+<entry key="sn_sid">SID</entry>
+<entry key="uuid">293e35aa-b3c1-464b-82fc-c04f76d5a006</entry>
+<entry key="useClient">false</entry>
+<entry key="sid">xe</entry>
+<entry key="useCustomConnectionString">false</entry>
+<entry key="port">1521</entry>
+<entry key="color">123 123 123</entry>
+<entry key="autoCommit">false</entry>
+<entry key="toadext.dbPlatform">ORACLE</entry>
+<entry key="sshEnabled">false</entry>
+<entry key="adapterId">ORACLE</entry>
+<entry key="customJdbcConnectString">jdbc:oracle:thin:@localhost:1521:xe</entry>
+<entry key="displayName">SYSTEM@localhost/xe</entry>
+<entry key="userName">SYSTEM</entry>
+<entry key="last_connected">1432219544033</entry>
+<entry key="restore_state">true</entry>
+<entry key="host">localhost</entry>
+</properties>
